@@ -1,2 +1,3 @@
 /env
-/output_predictions.csv
+/output_predictions*.csv
+/reviews.csv
